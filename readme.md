@@ -1,0 +1,1 @@
+all requests should be with header X-Requested-With: XMLHttpRequest
