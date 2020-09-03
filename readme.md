@@ -19,10 +19,15 @@ I am using nano. You can use any text editor:
 nano .env
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=totallySuperbDatabase
+
 DB_USERNAME=mysql_username
+
 DB_PASSWORD=mysql_username_password
 
 
